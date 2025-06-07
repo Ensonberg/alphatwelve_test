@@ -1,0 +1,20 @@
+{
+"home":"Home",
+ "cart": "Cart",
+  "favorites": "Favorites",
+  "profile": "Profile",
+  "delivery_address": "DELIVERY ADDRESS",
+  "delivery_address_details": "Umuezike Road, Oyo State",
+  "search": "Search...",
+  "technology": "Technology",
+  "go_back": "Go back",
+  "item_added": "Item has been added to cart",
+ "order_info": "Order Info",
+ "subtotal": "Subtotal",
+ "shipping": "Shipping",
+ "total": "Total",
+ "checkout": "Checkout",
+ "your_cart": "Your cart",
+ "add_to_cart": "Add to cart",
+ "in_stock": "In stock"
+}
