@@ -41,7 +41,7 @@ A simple and responsive shopping cart app built with **Flutter**, featuring offl
 
 ```bash
 git clone https://github.com/Ensonberg/alphatwelve_test.git
-cd aphatwelve
+cd aphatwelve_test
 
 ### 📦 Clone the Repository
 flutter pub get
