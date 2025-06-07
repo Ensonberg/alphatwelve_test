@@ -33,7 +33,7 @@ A simple and responsive shopping cart app built with **Flutter**, featuring offl
 
 | 🏠 Home Page | 📦 Product Details | 🛍️ Cart Page |
 |-------------|--------------------|--------------|
-| ![Home](screenshots/home.png) | ![Product](screenshots/product_detail.png) | ![Cart](screenshots/cart.png) |
+| ![Home](screenshots/home.png) | ![Product](screenshots/detail.png) | ![Cart](screenshots/cart.png) |
 
 
 
